@@ -255,10 +255,3 @@ Conexões privadas seguras entre VPCs e serviços AWS.
 Segurança de rede com firewall gerenciado.
 </details>
 
-...
-
-<!-- Adicione mais serviços seguindo o mesmo padrão -->
-
----
-
-Continue adicionando os demais serviços seguindo o mesmo padrão `<details>` e `<summary>`. Esse formato permitirá que você expanda ou oculte a descrição de cada serviço conforme necessário.
